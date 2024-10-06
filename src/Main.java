@@ -6,7 +6,7 @@ interface Figura{
 void desenha(Double n, Double n1);
 }
 /*
- *teste
+ *teste 123
  */
 
  class Retangulo{
