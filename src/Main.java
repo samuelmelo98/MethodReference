@@ -5,9 +5,6 @@ import java.util.*;
 interface Figura{
 void desenha(Double n, Double n1);
 }
-/*
- *teste 123
- */
 
  class Retangulo{
 
